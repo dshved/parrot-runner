@@ -1235,7 +1235,7 @@
             msPerFrame: 1000 / 3
         },
         RUNNING: {
-            frames: [88, 132],
+            frames: [89, 132],
             msPerFrame: 1000 / 12
         },
         CRASHED: {
