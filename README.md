@@ -1,3 +1,4 @@
-the trex runner game abstracted from chrome offline err page.
+# parrot-runner
+The parrot runner game abstracted from chrome offline err page.
 
-![chrome offline game cast](img/chrome_offline_game.gif)
+[DEMO](https://dshved.github.io/parrot-runner)
